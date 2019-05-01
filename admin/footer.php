@@ -2,7 +2,7 @@
     </body>
 
 </html>
-<script src="js/p.js"></script>
+<script src="p.js"></script>
 
 <?php
 /** 注册一个结束插件 */
